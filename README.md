@@ -44,11 +44,11 @@
 
 > Free 24/7 sexual and reproductive health assistant for young people in Zimbabwe, delivered over WhatsApp. *"Shanduko"* means **change** in Shona. Originally pitched at the **Imperial College London AI Health Innovation Workshop 2025** — now fully deployed and live.
 
-**Stack:** FastAPI · Groq LLaMA 3.3 70B · Meta WhatsApp Cloud API · SQLite · Oracle Cloud · Nginx
+**Stack:** FastAPI · Groq GPT-OSS 120B · Meta WhatsApp Cloud API · SQLite · Oracle Cloud · Nginx
 
 [![Live Bot](https://img.shields.io/badge/WhatsApp%20Bot-Live%20Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263714717274)
-[![Repo](https://img.shields.io/badge/Repo-shanduko--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CyprianTinasheMasvikeni/shanduko-ai)
-[![Privacy Policy](https://img.shields.io/badge/Privacy%20Policy-Live-00d4aa?style=flat-square&logo=googlechrome&logoColor=white)](https://cypriantinashemasvikeni.github.io/shanduko-ai/privacy.html)
+[![Repo](https://img.shields.io/badge/Repo-shanduko-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CyprianTinasheMasvikeni/shanduko)
+[![Privacy Policy](https://img.shields.io/badge/Privacy%20Policy-Live-00d4aa?style=flat-square&logo=googlechrome&logoColor=white)](https://cypriantinashemasvikeni.github.io/shanduko/privacy.html)
 
 <table>
   <tr>
